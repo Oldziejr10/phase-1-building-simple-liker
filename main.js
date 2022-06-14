@@ -4,6 +4,16 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
+const modalSelect = document.querySelector(`#modal`); 
+
+modalSelect.classList.add(`hidden`)
+
+const getHeart = document.querySelectorAll(`like-glyph`);
+
+
+
+
+
 
 
 
